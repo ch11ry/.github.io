@@ -1,0 +1,1 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([[1],{QeBL:function(n,e,u){"use strict";u.r(e),u.d(e,"default",function(){return a});var t=u("nTqR"),i=u.n(t),o=u("OAgh"),p=u.n(o);function a(){var n=new i.a,e=n.getDevice();return"mobile"===e.type?(p.a.push("/mobile"),null):(p.a.push("/pc"),null)}}}]);

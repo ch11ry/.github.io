@@ -1,0 +1,1 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([[3],{mbI3:function(a,e,r){"use strict";r.r(e);var s=r("mK77"),t=r.n(s);e["default"]={namespace:"basicInfo",state:{formValues:JSON.parse(window.localStorage.getItem("avatar-user-info")||"{}")},reducers:{saveState(a,e){var r=e.payload;return t()({},a,r)}}}}}]);
